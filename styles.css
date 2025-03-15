@@ -1,1 +1,60 @@
-/* your code here */
+
+.top{
+	padding:1rem;
+	color:white;
+	display:flex;
+	justify-content:space-between;
+} 
+.media-icons{
+	display:flex;
+	gap:1rem;
+}
+.fa{
+	border:1px solid black;
+	padding:0.5rem;
+	border-radius:50%;
+
+}
+#i1{
+	border:1px solid #316FF6;
+	background-color:#316FF6;
+}
+#i2{
+	border:1px solid #1DA1F2;
+	background-color:#1DA1F2;
+}
+#i3{
+	border:1px solid #E1306C;
+	background-color:#E1306C;
+}
+#i4{
+	border:1px solid #0077B5;
+	background-color:#0077B5;
+}
+#i5{
+	border:1px solid #FF0000;
+	background-color:#FF0000;
+}
+footer{
+	height:50%;
+	font-family: Arial, sans-serif;
+	background-color:black;
+}
+
+.link-boxes{
+	padding:1rem;
+    margin-top:2rem;
+	color:white;
+	display:flex;
+	gap:5rem;
+}
+.bottom-details{
+	padding:1rem;
+	background-color:grey;
+	height:50px;
+	display:flex;
+	justify-content:space-between;
+	margin-top:16rem;
+	color:white;
+	
+}
